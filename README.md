@@ -2,6 +2,9 @@
 # Node Farm
 
 Simple Node.js project with simple asyc and sync properties
+![Screenshot from 2023-05-30 19-08-49](https://github.com/FaizanQureshiism/1-node-farm/assets/85942282/942075e1-d12f-4133-9916-1d2236567f93)
+
+![Screenshot from 2023-05-30 19-09-04](https://github.com/FaizanQureshiism/1-node-farm/assets/85942282/60605526-3af9-4ab2-a74c-1e1c1f028ad4)
 
 ---
 ## Requirements
